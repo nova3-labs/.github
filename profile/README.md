@@ -1,3 +1,5 @@
+![Nova3 Labs](nova3-x-header-1500x500.png)
+
 # Nova3 Labs
 
 Applied AI R&D from [Nova3](https://www.nova3.ai). We build AI Operating Systems: the cognitive infrastructure that governs how organizations think, decide, and operate.
