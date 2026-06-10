@@ -1,4 +1,4 @@
-![Nova3 Labs](nova3-x-header-1500x500.png)
+![Nova3 Labs](nova3-labs-on-dark.png)
 
 # Nova3 Labs
 
